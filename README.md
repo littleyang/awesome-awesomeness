@@ -1,4 +1,5 @@
 # build awesome command line application in ruby
+- [link](http://computercollege.ac.ae/itbooks/130.pdf)
 
 # Awesome Awesomeness
 
