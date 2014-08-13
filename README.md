@@ -1,3 +1,5 @@
+# build awesome command line application in ruby
+
 # Awesome Awesomeness
 
 A curated list of amazingly awesome awesomeness
